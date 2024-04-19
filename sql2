@@ -1,0 +1,5 @@
+-- Checking entries from country France --
+
+SELECT *
+FROM main_table
+WHERE country = 'France'
